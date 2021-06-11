@@ -1,9 +1,6 @@
 # Amazon_Vine_Analysis
-<<<<<<< HEAD
-Analysis of Amazon Product Reviews (Paid Vine Program): AWS Big Data `ETL` with `PySpark` ,`Python` &amp; `Postgresql`
-=======
 ---
-Analysis of Amazon Product Reviews (Paid Vine Program): Big Data `ETL`  with `PySpark` ,`Python` &amp; `SQL`
+Analysis of Amazon Product Reviews (Paid Vine Program): AWS Big Data `ETL` with `PySpark` ,`Python` &amp; `Postgresql`
 
 ## CHALLENGE OVERVIEW
 ---
@@ -40,7 +37,5 @@ Deliverable 3: A written report on the Analysis (README.md)
 ---
 
 - _Recommendations for Further Analysis_
-Although the analysis displays no evidence of positivity bias for reviews in the Vine program, we must delve further into the dataset to provide more analyses or zoom out to our original dataset to amplify our findings against the non-preprocessed and filtered data. For example, I would like to see the spread of total reviews and helpful reviews for each star rating. Right now, we are only viewing 5-star vs the balance of reviews. We can create a frequency dataframe of vine reviews vs non-vine for each star value (1,2,3,4,5) against the total reviews to drill further down into the data. I would use this data to create a summary statistics dataframe and plot each group's distribution of stars given to see if there is visual confirmation of skewness which would reflect bias.
 
- 
->>>>>>> 33a5cc3e99b0f98dcf9b2b3f30b6cb53c8912f0c
+Although the analysis displays no evidence of positivity bias for reviews in the Vine program, we must delve further into the dataset to provide more analyses or zoom out to our original dataset to amplify our findings against the non-preprocessed and filtered data. For example, I would like to see the spread of total reviews and helpful reviews for each star rating. Right now, we are only viewing 5-star vs the balance of reviews. We can create a frequency dataframe of vine reviews vs non-vine for each star value (1,2,3,4,5) against the total reviews to drill further down into the data. I would use this data to create a summary statistics dataframe and plot each group's distribution of stars given to see if there is visual confirmation of skewness which would reflect bias.
