@@ -1,2 +1,2 @@
 # Amazon_Vine_Analysis
-Analysis of Amazon Product Reviews (Paid Vine Program): Big Data `ETL` and `NLP` with `PySpark` ,`Python` &amp; `SQL`
+Analysis of Amazon Product Reviews (Paid Vine Program): AWS Big Data `ETL` with `PySpark` ,`Python` &amp; `Postgresql`

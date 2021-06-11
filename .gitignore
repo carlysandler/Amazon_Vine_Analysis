@@ -1,3 +1,7 @@
+# Adding module notes files
+16_NOTES.md
+challenge_instr.md 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
